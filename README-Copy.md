@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub - Herman Yuen
+# :wave: The Basics of GitHub - HY
 
 ## 🤓 Course overview and learning outcomes 
 
